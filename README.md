@@ -13,4 +13,4 @@
 
 ### Connect With Me:
 
-[![Aabhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AabhasSao)](https://github.com/anuraghazra/github-readme-stats)
+[![Aabhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirito-236)](https://github.com/anuraghazra/github-readme-stats)

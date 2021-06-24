@@ -11,7 +11,11 @@
 - :lemon: watches anime but is not a WEEB.
 - :video_game: casual gamer
 
-<img src='https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/react/react.png' />
+### Languages and Technologies
+<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/javascript/javascript.png' />
+<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/react/react.png' />
+<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/node/node.png' />
+<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.png' />
 
 ### Connect With Me:
 <p>

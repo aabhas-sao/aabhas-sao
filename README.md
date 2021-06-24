@@ -12,10 +12,10 @@
 - :video_game: casual gamer
 
 ### Languages and Technologies
-<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/javascript/javascript.png' />
-<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/react/react.png' />
-<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/node/node.png' />
-<img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.png' />
+<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/javascript/javascript.png' /></a>
+<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/react/react.png' /></a>
+<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/node/node.png' /></a>
+<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.png' /></a>
 
 ### Connect With Me:
 <p>

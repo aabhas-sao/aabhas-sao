@@ -1,6 +1,7 @@
 ### Hi there I'm Aabhas Sao👋
 #### 🙂 I am an aspiring developer and designer
 
+- 🌱 Trying Competitive Programming
 - 🔭 I’m currently working on an instagram clone
 - 🌱 I’m currently learning javascript, Node.js, MySQL, CS Fundamentals
 - :snowman: Ask me Anything

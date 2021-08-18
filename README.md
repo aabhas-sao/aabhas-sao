@@ -7,10 +7,10 @@
 - 🔭 Exploring DevOps, Cloud.
 - :snowman: Ask me Anything
 
-#### 😅 Other stuff about Aabhas that you might  not want to know
+#### 😅 Other stuff that you might  not want to know
 
-- :pizza: he is currently trying to manage his time better.
-- :lemon: watches anime but is not a WEEB.
+- :pizza: Trying to be more productive.
+- :lemon: Do watch anime but not a WEEB.
 - :video_game: casual gamer, deletes all games on pc when frustated of being not productive and then later regrets it 🥺.
 
 ### 🛠️ Languages and Technologies

@@ -1,16 +1,17 @@
 ### Hi there I'm Aabhas Sao👋
 #### 🙂 I am an aspiring developer and designer
 
-- 🌱 Trying Competitive Programming
-- 🔭 I’m currently working on an instagram clone
-- 🌱 I’m currently learning javascript, Node.js, MySQL, CS Fundamentals
+- 🌱 Improving problem solving abilities.
+- 🌱 Revisiting HTML, CSS, JS, Node.js, websockets, REST API, SSR, SQL, NoSQL, cookies, sessions, tokens, authentication, oauth 2.0, authorizaion.
+- 🔭 Learning to write tests.
+- 🔭 Exploring DevOps, Cloud.
 - :snowman: Ask me Anything
 
 #### 😅 Other stuff about Aabhas that you might  not want to know
 
 - :pizza: he is currently trying to manage his time better.
 - :lemon: watches anime but is not a WEEB.
-- :video_game: casual gamer
+- :video_game: casual gamer, deletes all games on pc when frustated of being not productive and then later regrets it 🥺.
 
 ### 🛠️ Languages and Technologies
 <a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/javascript/javascript.png' /></a>

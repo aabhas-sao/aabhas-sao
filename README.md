@@ -26,5 +26,5 @@
     <a href="https://dribbble.com/Aabhas236"><img alt="instagram" width="6%" style="padding:5px" src="https://img.icons8.com/nolan/64/dribbble.png"/></a>
 </p>
 
-[![Aabhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirito-236)](https://github.com/anuraghazra/github-readme-stats)
+[![Aabhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabhas-sao)](https://github.com/anuraghazra/github-readme-stats)
 

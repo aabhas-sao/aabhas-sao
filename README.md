@@ -2,8 +2,6 @@
 #### 🙂 I am an aspiring developer and designer
 
 - 🌱 Improving problem solving abilities.
-- 🌱 Revisiting HTML, CSS, JS, Node.js, websockets, REST API, SSR, SQL, NoSQL, cookies, sessions, tokens, authentication, oauth 2.0, authorizaion.
-- 🔭 Learning to write tests.
 - 🔭 Exploring DevOps, Cloud.
 - :snowman: Ask me Anything
 

@@ -11,12 +11,6 @@
 - :lemon: Do watch anime but not a WEEB.
 - :video_game: casual gamer, deletes all games on pc when frustated of being not productive and then later regrets it 🥺.
 
-### 🛠️ Languages and Technologies
-<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/javascript/javascript.png' /></a>
-<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/react/react.png' /></a>
-<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/node/node.png' /></a>
-<a><img src='https://github.com/kirito-236/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.png' /></a>
-
 ### 😃 Connect With Me:
 <p>
 	<a href="https://www.linkedin.com/in/aabhas-sao-b9b50619b/"><img alt="linkedin" width="6%" style="padding:5px" src="https://img.icons8.com/nolan/64/linkedin.png"/></a>

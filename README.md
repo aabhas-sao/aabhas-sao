@@ -1,12 +1,16 @@
-### Aabhas Sao | Software Engineer
+### Hi, I'm Aabhas 👋
 
-I am a backend engineer specializing in Java, Spring Boot, and C++. My approach to software is centered on building stable, observable, and efficient systems.
+I build backend systems that scale. My go-to tools are Java, Spring Boot, and C++.
 
-I spend most of my time architecting microservices and transaction gateways. I have made over 10 contributions to the Kestra ecosystem and advocate for open source sustainability. I am also one of the architects of Saudh, a digital platform for operational efficiency in the restaurant industry.
+I care about what happens under the hood. My current focus is distributed systems and resilient architecture. 
 
-I have a track record in rigorous problem solving with experience in competitive programming and hackathons like Juspay and MLH. I consider myself a student of the craft and I am currently refining my knowledge of system fundamentals and distributed architectures.
+I am a big believer in open source. I have shipped over 10 contributions to the Kestra ecosystem and love building tools for other developers.
 
-### Metrics
+Give me a hard problem and I am happy. I have tackled complex challenges in competitive programming and hackathons with Juspay and MLH.
+
+Always learning. Always building.
+
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aabhas-sao&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Aabhas's GitHub stats" width="48%" />

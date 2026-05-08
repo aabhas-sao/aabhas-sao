@@ -4,7 +4,7 @@ I'm a backend developer who enjoys building reliable systems and learning new th
 
 ☕️ Writing code in Java, Spring Boot, and Go  
 🏗️ Exploring distributed systems and architecture  
-🌍 Contributing to open source (mostly Kestra)  
+🌍 Contributing to open source: Kestra, Jenkins X, etc  
 🎮 Occasional hackathon participant (Juspay, MLH)  
 
 Always a student of the craft.
